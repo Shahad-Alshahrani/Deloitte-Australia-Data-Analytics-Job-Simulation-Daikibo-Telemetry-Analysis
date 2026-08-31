@@ -1,6 +1,6 @@
 # Deloitte Australia Data Analytics Job Simulation - Daikibo Telemetry Analysis
 
-<img width="100%" height="100%" alt="Dashboard" src=(https://github.com/Shahad-Alshahrani/Deloitte-Australia-Data-Analytics-Job-Simulation-Daikibo-Telemetry-Analysis/blob/main/Dashboard.png)/>
+<img width="100%" height="100%" alt="Dashboard" src="https://github.com/user-attachments/assets/852868b7-582e-4bb4-a348-14d2d900c638" />
 
 ## 📌 Project Overview
 This project is part of the **Deloitte Australia Data Analytics Virtual Internship** on Forage. The goal is to analyze telemetry data for a client, **Daikibo (Macora Industries)**, to identify manufacturing process bottlenecks and pinpoint the primary root causes of assembly line interruptions across global production facilities.
