@@ -47,5 +47,5 @@ Built an interactive Tableau Dashboard integrating cross-filtering:
 * 🔴 Operational Hotspots: Heatmap breakdown shows heavy downtime concentrated in specific assembly sections (e.g., section-4 in Osaka and section-3 in Shenzhen), indicating localized operational risks.
 
 ### 🛠️ Tools Used
-* 📊 Tableau Desktop / Tableau Public (Data Modeling, Calculations, Dashboarding, Interactive Filtering)
+* 📊 ['Tableau Desktop / Tableau Public (Data Modeling, Calculations, Dashboarding, Interactive Filtering)']
 * 📄 JSON (Telemetry Data Source)
