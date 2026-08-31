@@ -42,11 +42,11 @@ Built an interactive Tableau Dashboard integrating cross-filtering:
 🖱️ Selecting a factory in the "Down Time per Factory" chart dynamically filters device types and factory sections to display localized breakdowns.
 
 ## 💡 Key Insights & Findings
-* **🏭 Most Affected Location: Daikibo Factory Seiko (Osaka, Japan) registered the highest total downtime at 480 minutes, closely followed by Daikibo Shenzhen with 420 minutes.
+*🏭 Most Affected Location: Daikibo Factory Seiko (Osaka, Japan) registered the highest total downtime at 480 minutes, closely followed by Daikibo Shenzhen with 420 minutes.
 
-* **⚡ Primary Bottleneck Machines: LaserWelder (480 mins) and LaserCutter (430 mins) accounted for the overwhelming majority of total equipment failures across facilities.
+*⚡ Primary Bottleneck Machines: LaserWelder (480 mins) and LaserCutter (430 mins) accounted for the overwhelming majority of total equipment failures across facilities.
 
-* **🔴 Operational Hotspots: Heatmap breakdown shows heavy downtime concentrated in specific assembly sections (e.g., section-4 in Osaka and section-3 in Shenzhen), indicating localized operational risks.
+*🔴 Operational Hotspots: Heatmap breakdown shows heavy downtime concentrated in specific assembly sections (e.g., section-4 in Osaka and section-3 in Shenzhen), indicating localized operational risks.
 
 ### 🛠️ Tools Used
 * 📊 Tableau Desktop / Tableau Public (Data Modeling, Calculations, Dashboarding, Interactive Filtering)
