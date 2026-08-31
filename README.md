@@ -47,5 +47,5 @@ Built an interactive Tableau Dashboard integrating cross-filtering:
 * 🔴 Operational Hotspots: Heatmap breakdown shows heavy downtime concentrated in specific assembly sections (e.g., section-4 in Osaka and section-3 in Shenzhen), indicating localized operational risks.
 
 ### 🛠️ Tools Used
-* 📊 ['Tableau Desktop / Tableau Public (Data Modeling, Calculations, Dashboarding, Interactive Filtering)'](https://github.com/Shahad-Alshahrani/Deloitte-Australia-Data-Analytics-Job-Simulation-Daikibo-Telemetry-Analysis/blob/main/daikibo-telemetry-data.json.zip)
-* 📄 JSON (Telemetry Data Source)
+* 📊 ['Tableau Desktop / Tableau Public (Data Modeling, Calculations, Dashboarding, Interactive Filtering)'](https://public.tableau.com/views/DaikiboTelemetryAnalysis_17881390242660/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* 📄 ['JSON (Telemetry Data Source)'](https://github.com/Shahad-Alshahrani/Deloitte-Australia-Data-Analytics-Job-Simulation-Daikibo-Telemetry-Analysis/blob/main/daikibo-telemetry-data.json.zip)
